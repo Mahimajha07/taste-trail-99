@@ -1,0 +1,9 @@
+{
+  "name": "TasteTrail - AI Restaurant Scout",
+  "description": "High-fidelity restaurant discovery with Gemini flavor profiling and real-time grounding.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
